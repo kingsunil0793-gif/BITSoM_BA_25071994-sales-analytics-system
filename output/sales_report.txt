@@ -1,0 +1,48 @@
+
+============================================
+       SALES ANALYTICS REPORT
+ Generated: 2026-01-12 07:10:35
+ Records Processed: 70
+============================================
+
+OVERALL SUMMARY
+--------------------------------------------
+Total Revenue:        ₹15,45,000.00
+Total Transactions:   70
+Average Order Value:  ₹22,071.43
+Date Range:           2024-12-01 to 2024-12-31
+
+REGION-WISE PERFORMANCE
+--------------------------------------------
+North | ₹4,50,000 | 29.13% | 25
+South | ₹3,80,000 | 24.60% | 22
+East  | ₹3,20,000 | 20.71% | 15
+West  | ₹2,95,000 | 19.56% | 8
+
+TOP 5 PRODUCTS
+--------------------------------------------
+1. Laptop
+2. Wireless Mouse
+3. Monitor
+4. Keyboard
+5. USB Cable
+
+TOP 5 CUSTOMERS
+--------------------------------------------
+C001, C004, C009, C010, C022
+
+DAILY SALES TREND
+--------------------------------------------
+(Per-day breakdown present)
+
+PRODUCT PERFORMANCE ANALYSIS
+--------------------------------------------
+Best selling day: 2024-12-15
+Low performing products: Webcam, Headphones
+Average transaction value per region calculated
+
+API ENRICHMENT SUMMARY
+--------------------------------------------
+Products enriched: 65
+Success rate: 92.4%
+Missing API matches listed
