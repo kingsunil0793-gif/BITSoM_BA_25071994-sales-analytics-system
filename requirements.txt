@@ -1,1 +1,18 @@
-requests>=2.31.0
+# requirements.txt
+# Required external packages for the Sales Data Analytics System
+
+requests>=2.28.0
+# ^ only this one external library is needed (used for DummyJSON API calls)
+
+# No pandas, numpy, matplotlib or any other heavy dependencies are used
+# Everything else is pure Python standard library
+
+How you should install it?
+
+pip install requests
+
+That's all — no other packages are required.
+
+If you want a more strict/pinned version for reproducibility:
+
+requests==2.32.3
